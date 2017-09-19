@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\bin\Debug\sy1-4.exe.config
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\bin\Debug\sy1-4.exe
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\bin\Debug\sy1-4.pdb
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\obj\Debug\sy1-4.exe
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\obj\Debug\sy1-4.pdb
+C:\Users\lenovo\Desktop\20142923-张一博\sy1-4\sy1-4\obj\Debug\sy1-4.csprojResolveAssemblyReference.cache
